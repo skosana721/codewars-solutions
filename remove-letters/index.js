@@ -9,4 +9,4 @@ const removeLetters = (arr) => {
   }
   return numberArray;
 };
-console.log(removeLetters(array));
+removeLetters(array);
